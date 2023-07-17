@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+**定位** 
 
-**Here are some ideas to get you started:**
+通过利用人工智能技术改变动画世界。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**愿景** 
+
+弥合动画和人工智能之间的差距，培育一个拥抱这两个领域结合潜力的社群。我们致力于启发和连接志同道合的人，鼓励实验和推动人工智能驱动的动画领域的发展。
