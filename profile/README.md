@@ -1,16 +1,4 @@
-## Hi there 👋
-
-**定位** 
-
-通过利用人工智能技术改变动画世界。
-
-**愿景** 
-
-弥合动画和人工智能之间的差距，培育一个拥抱这两个领域结合潜力的社群。我们致力于启发和连接志同道合的人，鼓励实验和推动人工智能驱动的动画领域的发展。
-
-
-
-## stable 常用插件
+## stable diffusion 常用插件
 
 提示词 
 - 自动补全 https://github.com/ToonAIHub/a1111-sd-webui-tagcomplete.git
@@ -30,3 +18,13 @@
 多角色图生成
 - Latent couple 分区域精准生成 https://github.com/toonaihub/stable-diffusion-webui-two-shot
 - Composable LoRA 分区域LoRa效果控制 https://github.com/toonaihub/stable-diffusion-webui-composable-lora
+
+## Hi there 👋
+
+**定位** 
+
+通过利用人工智能技术改变动画世界。
+
+**愿景** 
+
+弥合动画和人工智能之间的差距，培育一个拥抱这两个领域结合潜力的社群。我们致力于启发和连接志同道合的人，鼓励实验和推动人工智能驱动的动画领域的发展。
