@@ -1,3 +1,9 @@
+## stable diffusion 模型网站
+
+- [C站 - 需翻墙](https://civitai.com/)
+- [哩布哩布 - 国内](https://liblibai.com/)
+
+
 ## stable diffusion 常用插件
 
 提示词 
